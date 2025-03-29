@@ -3,4 +3,6 @@
 
 First real TOP project.
 
+Just playing with git.
+
 A simple HTML only website to display recipes. 
